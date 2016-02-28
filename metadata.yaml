@@ -1,0 +1,44 @@
+_repo: The-Art-of-Poetry-an-Epistle-to-the-Pisos-Q-Horatii-Flacci-Epistola-Ad-Pisones-De-Arte-Poetica_9175
+contributor:
+  translator:
+    agent_name: Colman, George
+    aliases:
+    - Coleman, George
+    - Colman, George, the elder
+    - Colmann, George
+    birthdate: 1732
+    deathdate: 1794
+    gutenberg_agent_id: '9129'
+    url: http://www.gutenberg.org/2009/agents/9129
+    wikipedia: http://en.wikipedia.org/wiki/George_Colman_the_Elder
+creator:
+  author:
+    agent_name: Horace
+    alias: Horatius Flaccus, Quintus
+    birthdate: -65
+    deathdate: -8
+    gutenberg_agent_id: '1790'
+    url: http://www.gutenberg.org/2009/agents/1790
+    wikipedia: http://en.wikipedia.org/wiki/Horace
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9175'
+language:
+- la
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Didactic poetry, Latin -- Translations into English'
+- !lcsh 'Poetics -- Early works to 1800'
+- !lcsh 'Aesthetics -- Early works to 1800'
+- !lcsh 'Criticism -- Early works to 1800'
+- !lcsh 'Epistolary poetry, Latin -- Translations into English'
+title: "The Art of Poetry: an Epistle to the Pisos\r\nQ. Horatii Flacci Epistola Ad\
+  \ Pisones, De Arte Poetica."
+url: http://www.gutenberg.org/ebooks/9175
