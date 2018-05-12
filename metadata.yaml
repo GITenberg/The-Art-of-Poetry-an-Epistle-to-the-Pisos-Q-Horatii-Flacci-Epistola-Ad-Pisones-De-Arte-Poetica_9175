@@ -1,4 +1,5 @@
 _repo: The-Art-of-Poetry-an-Epistle-to-the-Pisos-Q-Horatii-Flacci-Epistola-Ad-Pisones-De-Arte-Poetica_9175
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Colman, George
@@ -11,6 +12,9 @@ contributor:
     gutenberg_agent_id: '9129'
     url: http://www.gutenberg.org/2009/agents/9129
     wikipedia: http://en.wikipedia.org/wiki/George_Colman_the_Elder
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Horace
@@ -21,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1790
     wikipedia: http://en.wikipedia.org/wiki/Horace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9175#The-Art-of-Poetry-an-Epistle-to-the-Pisos-Q-Horatii-Flacci-Epistola-Ad-Pisones-De-Arte-Poetica
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
